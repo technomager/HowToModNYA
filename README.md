@@ -82,8 +82,11 @@ Trying to Disable a large mod like There Is No Umbra, can lead to disasterous re
 > When you add armor mods, it works without any issue but you will need to use "BodySlide" to adjust the armor to the wearer’s body. Otherwise, you won't be able to see that a character has big boobies under her armor. You need to know that NYA Calico is using “3BA CBBE” (3BBB) so we need to grab an armor compatible with 3BA or at least find someone sharing the 3BA Bodyslide. Let me show you how to do that.
 
 - First, we need to find good looking armor so we're going to pick up one I've added [Download here](https://www.sunjeongskyrimse.com/post/the-amazing-world-of-bikini-armors-remastered-6-0)
+
 ![{0DB55B19-E344-48A9-B67E-1286D3889DE9}](https://github.com/user-attachments/assets/e4a414d9-e7f8-4a6b-b1d5-8aea3154be49)
+
 - Unfortunately, the armor is for CBBE but not for 3BA CBBE. Let's not give up hope and let’s take a look at the "Includes" section
+
 ![{36BCE6D3-E743-4DC5-8865-FC4D8B4986D4}](https://github.com/user-attachments/assets/d4787b01-0ed2-4e4a-951f-005c1f319cc7)
 
 - Success! looks like it does work with 3BA!, so download it from one of the links at the top of the page
