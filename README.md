@@ -24,6 +24,8 @@ Before getting started, it's best to learn the right way to mod. Skyrim is one o
 - The right panel is used to manage the order of your plugins of your mods (files with .esl, .esp or .esm). It's very important, and causes most of the problems for people trying to edit the list. Certain plugins should be placed at the very bottom (notably Papermaps and its patches or DBVO and EvanoraVoice or DynDOLOD and its Occlusion) because if a mod is placed further down than another, it means that it is "conflict-winner" for all mods that try to edit the same thing as it. If you have an addition that modifies a cell lower than Lux, it's very likely that it will edit the light system back to vanilla, overwriting Lux's modifications.
 - The best way to place your additions is to place them above DBVO/EvanoraVoice and its patches. If you      want to know exactly, I suggest you take a look at my own plugin order . You will be sure that you’re not going to break anything from the major mods needing to be loaded at the very end (DBVO, PaperMaps, DynDOLOD, Occlusion, Synthesisits  Patches, …etc)
 - You can easily know which mod, your plugin is ESPFE (ESL). You can see it when a plugin has a yellow dot as below : 
+
+
 ![{5172DD71-F83F-4B47-86E0-D2399378E6C7}](https://github.com/user-attachments/assets/8ef625be-3f0f-4af0-a47f-087cc8837802)
 
 
